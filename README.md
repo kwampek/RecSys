@@ -1,2 +1,1 @@
 # RecSys
-MIPT RecSys homework
